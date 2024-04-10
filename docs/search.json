@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Genese",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "1Mose16.html",
+    "href": "1Mose16.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2\n\n\n16 Und Sarai, Abrams Frau, gebar ihm keine Kinder; aber sie hatte eine ägyptische Magd, die hieß Hagar.2 Und Sarai sprach zu Abram: Sieh doch, der Herr hat mich verschlossen, dass ich keine Kinder gebären kann. Geh doch ein zu meiner Magd; vielleicht werde ich durch sie Nachkommen empfangen! Und Abram hörte auf die Stimme Sarais.3 Da nahm Sarai, Abrams Frau, ihre ägyptische Magd Hagar, nachdem Abram zehn Jahre lang im Land Kanaan gewohnt hatte, und gab sie Abram, ihrem Mann, zur Frau.4 Und er ging ein zu Hagar, und sie wurde schwanger. Als sie nun sah, dass sie schwanger war, wurde ihre Herrin verächtlich in ihren Augen.5 Da sprach Sarai zu Abram: Das Unrecht, das mir zugefügt wird, treffe dich! Ich habe dir meine Magd in den Schoß gegeben. Da sie nun aber sieht, dass sie schwanger ist, bin ich verächtlich in ihren Augen. Der Herr sei Richter zwischen mir und dir!6 Abram aber sprach zu Sarai: Siehe, deine Magd ist in deiner Hand; tue mit ihr, was gut ist in deinen Augen! Da nun Sarai sie demütigte, floh sie von ihr.7 Aber der Engel des Herrn fand sie bei einem Wasserbrunnen in der Wüste, beim Brunnen auf dem Weg nach Schur.8 Er sprach zu ihr: Hagar, du Magd der Sarai, wo kommst du her, und wo willst du hin? Sie sprach: Ich bin von meiner Herrin Sarai geflohen!9 Und der Engel des Herrn sprach zu ihr: Kehre wieder zurück zu deiner Herrin und demütige dich unter ihre Hand!10 Und der Engel des Herrn sprach zu ihr: Siehe, ich will deinen Samen so mehren, dass er vor großer Menge unzählbar sein soll.11 Weiter sprach der Engel des Herrn zu ihr: Siehe, du bist schwanger und wirst einen Sohn gebären, dem sollst du den Namen Ismael geben, weil der Herr dein Jammern erhört hat.12 Er wird ein wilder Mensch sein, seine Hand gegen jedermann und jedermanns Hand gegen ihn; und er wird allen seinen Brüdern trotzig gegenüberstehen.13 Und sie nannte den Namen des Herrn, der mit ihr redete: Du bist »der Gott, der [mich] sieht«!, indem sie sprach: Habe ich hier nicht dem nachgesehen, der mich sieht?14 Darum nannte sie den Brunnen einen »Brunnen des Lebendigen, der mich sieht«. Siehe, er ist zwischen Kadesch und Bared.15 Und Hagar gebar Abram einen Sohn; und Abram gab seinem Sohn, den ihm Hagar geboren hatte, den Namen Ismael.16 Und Abram war 86 Jahre alt, als Hagar ihm den Ismael gebar. 1 Mose 16 Schlachter 2000"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  }
+]

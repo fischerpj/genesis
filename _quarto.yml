@@ -1,0 +1,29 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Genese"
+  author: "Jane Doe"
+  date: "4/10/2024"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - 1Mose16.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+  epub:
+    title: "Genesis"
+    author: "Moses"
+    toc: true
+    # Add any other relevant options here
+
+editor: visual
+
